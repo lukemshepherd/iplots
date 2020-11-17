@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: Contry
       url: /core
+    - output: web,pdf
+      title: Title
+      url: /plot
     output: web
     title: iplots
   output: web

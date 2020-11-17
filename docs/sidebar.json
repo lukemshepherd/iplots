@@ -1,6 +1,7 @@
 {
   "iplots": {
     "Overview": "/",
-    "module name here": "/core"
+    "Contry": "/core",
+    "Title": "/plot"
   }
 }
